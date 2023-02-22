@@ -5,7 +5,7 @@
 <h3> O projeto utiliza Node.js para criar um código que recebe uma lista de propriedades de CSS e as retorna ordenadas de A-Z. Ordenar as propriedades de CSS ajuda a encontrar rapidamente a propriedade que você precisa alterar. </h3>
 
 <div align= center>
-<h1>Como usar</h1>
+<h1>Como foi feito</h1>
 </div>
 
 <h3> - Instale as dependências necessárias executando o comando `npm install` e `npm init`;</h3>
